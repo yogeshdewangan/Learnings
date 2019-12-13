@@ -1,4 +1,4 @@
-package ArrayListFilter;
+package arrayListFilter;
 
 public class Person {
     public String getName() {
